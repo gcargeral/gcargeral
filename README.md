@@ -22,3 +22,4 @@ Estudando na DIO para ser Full Stack Developer
 
 ## Linguagens mais usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gcargeral&theme=solarized-light&layout=compact&border_color=30A3DC)
+ 
